@@ -2,12 +2,12 @@
   <img src="https://telegra.ph/file/843a1c944c226afe34001.jpg">
 </p>
 
-<h4><p align="center"> KILLUA ROBOT </p></h4>
+<h4><p align="center"> UNICORN ROBOT </p></h4>
 
 <p align="center">Killua Robot is a modular bot running on python3 with anime theme and have a lot features.</p>
 
 <p align="center">
-<a href="http://t.me/ryusupport_bot"> <img src="https://img.shields.io/badge/Ryu-Robot-blue?&logo=telegram" alt="Killua on Telegram" /> </a><br>
+<a href="http://t.me/ryusupport_bot"> <img src="https://img.shields.io/badge/Ryu-Robot-blue?&logo=telegram" alt="Unicorn on Telegram" /> </a><br>
 <a href="https://python-telegram-bot.org"> <img src="https://img.shields.io/badge/PTB-13.11-white?&style=flat-round&logo=github" alt="Python Telegram Bot" /> </a>
 <a href="https://github.com/psf/black"><img alt="Code style: black" src="https://img.shields.io/badge/code%20style-black-000000.svg"></a><br>
 <a href="https://docs.telethon.dev"> <img src="https://img.shields.io/badge/Telethon-1.24.0-red?&style=flat-round&logo=github" alt="Telethon" /> </a>
