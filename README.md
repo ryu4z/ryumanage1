@@ -39,7 +39,7 @@ This Bot is Created by KennedyProject, If your kanging this without fork at leas
 
 ### Support
 <p>
-<a href="https://t.me/Xrinku"> <img src="https://img.shields.io/badge/Sena-Ex-blue?&logo=telegram" alt="Rinku on Telegram" /> </a><br>
+<a href="https://t.me/Xrinku"> <img src="https://img.shields.io/badge/Rinku-blue?&logo=telegram" alt="Rinku on Telegram" /> </a><br>
 <a href="https://t.me/ryusupport"> <img src="https://img.shields.io/badge/Support-Chat-blue?&logo=telegram" alt="Support Chat" /> </a><br>
 <a href="https://t.me/ryuproject"> <img src="https://img.shields.io/badge/Update-Channel-blue?&logo=telegram" alt="Update Channel" /> </a><br>
 </p>
