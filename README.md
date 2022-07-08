@@ -4,7 +4,7 @@
 
 <h4><p align="center"> UNICORN ROBOT </p></h4>
 
-<p align="center">Killua Robot is a modular bot running on python3 with anime theme and have a lot features.</p>
+<p align="center">Unicorn Robot is a modular bot running on python3 with anime theme and have a lot features.</p>
 
 <p align="center">
 <a href="http://t.me/ryusupport_bot"> <img src="https://img.shields.io/badge/Ryu-Robot-blue?&logo=telegram" alt="Unicorn on Telegram" /> </a><br>
@@ -39,9 +39,9 @@ This Bot is Created by KennedyProject, If your kanging this without fork at leas
 
 ### Support
 <p>
-<a href="https://t.me/excrybaby"> <img src="https://img.shields.io/badge/Sena-Ex-blue?&logo=telegram" alt="Sena on Telegram" /> </a><br>
-<a href="https://t.me/EmikoSupport"> <img src="https://img.shields.io/badge/Support-Chat-blue?&logo=telegram" alt="Support Chat" /> </a><br>
-<a href="https://t.me/KennedyProject"> <img src="https://img.shields.io/badge/Update-Channel-blue?&logo=telegram" alt="Update Channel" /> </a><br>
+<a href="https://t.me/Xrinku"> <img src="https://img.shields.io/badge/Sena-Ex-blue?&logo=telegram" alt="Rinku on Telegram" /> </a><br>
+<a href="https://t.me/ryusupport"> <img src="https://img.shields.io/badge/Support-Chat-blue?&logo=telegram" alt="Support Chat" /> </a><br>
+<a href="https://t.me/ryuproject"> <img src="https://img.shields.io/badge/Update-Channel-blue?&logo=telegram" alt="Update Channel" /> </a><br>
 </p>
 
 ## Credit 
